@@ -2,6 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54cac10e-5eeb-497b-9d7a-a1d607af5b7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17213842-4eb3-48d8-b171-8b88cf0439b1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Candy.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application-development.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/CandyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/CandyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pojo/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/CandyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/CandyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/CandyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/homePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/fujiyama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/miku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/planet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -101,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-development.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -127,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="240">
               <caret line="12" column="100" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="100" />
             </state>
           </provider>
@@ -264,32 +293,6 @@
               <item name="Candy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Candy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Candy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Candy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Candy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Candy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Candy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Candy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Candy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Candy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -314,7 +317,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -459,6 +462,7 @@
       <workItem from="1570006505392" duration="2526000" />
       <workItem from="1573974692534" duration="47000" />
       <workItem from="1573975788986" duration="847000" />
+      <workItem from="1584713223002" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="项目创建">
       <created>1559975199216</created>
@@ -474,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573975857216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit-20200320">
+      <created>1584713365903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584713365903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83602000" />
+    <option name="totallyTimeSpent" value="83937000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,7 +509,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5017182" side_tool="true" weight="0.18796992" />
       <window_info id="Web" order="5" sideWeight="0.5017182" side_tool="true" weight="0.18796992" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49828178" visible="true" weight="0.19871107" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49828178" visible="true" weight="0.20139635" />
       <window_info id="Structure" order="7" sideWeight="0.5017182" weight="0.18796992" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -535,7 +546,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目创建" />
     <MESSAGE value="同步项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="同步项目" />
+    <MESSAGE value="commit-20200320" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-20200320" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -940,7 +952,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="240">
           <caret line="12" column="100" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="100" />
         </state>
       </provider>
@@ -948,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-development.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
